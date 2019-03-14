@@ -1,0 +1,15 @@
+{
+  "name": "@fab/cloudflare-workers-packager",
+  "version": "0.0.1",
+  "description": "A Front-end Application Bundle packager that generates a Cloudflare Worker",
+  "main": "index.js",
+  "author": "Erwin van der Koogh <hello@bitgenics.io>",
+  "license": "MIT",
+  "dependencies": {
+    "deterministic-zip": "^1.0.5",
+    "extract-zip": "^1.6.7",
+    "nanoid": "^2.0.1",
+    "rimraf": "^2.6.3",
+    "webpack": "^4.29.6"
+  }
+}
