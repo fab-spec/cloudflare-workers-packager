@@ -1,6 +1,6 @@
 {
   "name": "@fab/cloudflare-workers-packager",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A Front-end Application Bundle packager that generates a Cloudflare Worker",
   "main": "index.js",
   "author": "Erwin van der Koogh <hello@bitgenics.io>",
